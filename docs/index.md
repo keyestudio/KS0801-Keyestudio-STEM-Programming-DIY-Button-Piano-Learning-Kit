@@ -108,73 +108,76 @@ To write codes featuring more creation and interestingness, we design this kit w
 
 ## Assembly
 
-### 1. Required components
+### step 1
+
+#### 1. Required components
 
 ![img](img/an1.png)
 
 ------
 
-### 2.
+#### 2.
 
 ![img](img/an2.png)
 
 ------
 
-### 3.
+#### 3.
 
 ![img](img/an3.png)
 
 ------
 
-### 4.
+#### 4.
 
 ![img](img/an4.png)
 
 ------
 
-### 1. Required components
+### step 2
+#### 1. Required components
 
 ![img](img/an5.png)
 
 ------
 
-### 2.
+#### 2.
 
 ![img](img/an6.png)
 
 ------
 
-### 3.
+#### 3.
 
 ![img](img/an7.png)
 
 ------
 
-### 4.
+#### 4.
 
 ![img](img/an8.png)
 
 ------
 
-### 5.
+#### 5.
 
 ![img](img/an9.png)
 
 ------
 
-### 6.
+#### 6.
 
 ![img](img/an10.png)
 
 ------
 
-### 7.
+#### 7.
 
 ![img](img/an11.png)
 
 ------
-
-### Wiring
+### step 3
+#### Wiring
 
 **DuPont wires:**
 
@@ -217,67 +220,67 @@ To write codes featuring more creation and interestingness, we design this kit w
 
 ------
 
-### 1. Required components
+#### 1. Required components
 
 ![img](img/an12.png)
 
 ------
 
-### 2.
+#### 2.
 
 ![img](img/an13.png)
 
 ------
 
-### 3.
+#### 3.
 
 ![img](img/an14.png)
 
 ------
 
-### 4.
+#### 4.
 
 ![img](img/an15.png)
 
 ------
 
-### 5.
+#### 5.
 
 ![img](img/an16.png)
 
 ------
 
-### 6.
+#### 6.
 
 ![img](img/an17.png)
 
 ------
-
-### 1. Required components
+### step 4
+#### 1. Required components
 
 ![img](img/an18.png)
 
 ------
 
-### 2.
+#### 2.
 
 ![img](img/an19.png)
 
 ------
 
-### 3.
+#### 3.
 
 ![img](img/an20.png)
 
 ------
 
-### 4.
+#### 4.
 
 ![img](img/an21.png)
 
 ------
 
-### 5.
+#### 5.
 
 这一步需要把上盖掀开，再插入中间固定板。
 
@@ -289,13 +292,13 @@ To write codes featuring more creation and interestingness, we design this kit w
 
 ------
 
-### 6.
+#### 6.
 
 ![img](img/an23.png)
 
 ------
 
-### 7.
+#### 7.
 
 ![img](img/an24.png)
 
@@ -304,38 +307,38 @@ To write codes featuring more creation and interestingness, we design this kit w
 ![img](img/jn6.png)
 
 ------
-
-### 1. Required components
+### step 5
+#### 1. Required components
 
 ![img](img/an25.png)
 
 ------
 
-### 2.
+#### 2.
 
 ![img](img/an26.png)
 
 ------
 
-### 3.
+#### 3.
 
 ![img](img/an27.png)
 
 ------
 
-### 4.
+#### 4.
 
 ![img](img/an28.png)
 
 ------
 
-### 5.
+#### 5.
 
 ![img](img/an29.png)
 
 ------
 
-### 6.
+#### 6.
 
 ![img](img/an30.png)
 
@@ -348,42 +351,42 @@ To write codes featuring more creation and interestingness, we design this kit w
 ![img](img/jn7.png)
 
 ------
-
-### 1. Required components
+### step 6
+#### 1. Required components
 
 ![img](img/an31.png)
 
 ------
 
-### 2.
+#### 2.
 
 ![img](img/an32.png)
 
 ------
 
-### 3.
+#### 3.
 
 ![img](img/an33.png)
 
 ------
 
-### 4.
+#### 4.
 
 ![img](img/an34.png)
 
 ------
 
-### 5.
+#### 5.
 
 ![img](img/an35.png)
 
 ------
 
-### 6.
+#### 6.
 
 ![img](img/an40.png)
 
-### 7.
+#### 7.
 
 ![img](img/an37.png)
 
