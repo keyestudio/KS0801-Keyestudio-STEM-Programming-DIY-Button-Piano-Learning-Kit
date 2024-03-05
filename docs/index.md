@@ -71,7 +71,7 @@ If you are interested in our products, please contact to our sales representativ
 | :--: | :----------------------------------------------------------: | :--------------: | :--: |
 |  1   |                      ![img](img/q1.png)                      |     Basswood     |  1   |
 |  2   |                      ![img](img/q2.png)                      | Expansion baord  |  1   |
-|  3   |                      ![img](img/q3.png)                      |  Button module   |  7   |
+|  3   |                      ![img](img/q3.png)                      |  Button module   |  8   |
 |  4   |                      ![img](img/q4.png)                      |  Battery holder  |  1   |
 |  5   | ![img](img/q5.png) ![img](img/q5.png) ![img](img/q5.png) ![img](img/q5.png) | M4 copper pillar |  4   |
 |  6   | ![img](img/q7.png)![img](img/q7.png)![img](img/q7.png)![img](img/q7.png)![img](img/q7.png)![img](img/q7.png)![img](img/q7.png)![img](img/q7.png) |   M4*6mm screw   |  8   |
@@ -282,7 +282,7 @@ To write codes featuring more creation and interestingness, we design this kit w
 
 #### 5.
 
-这一步需要把上盖掀开，再插入中间固定板。
+Lift the cover and insert the center plate.
 
 ![img](img/jn5.png)
 
