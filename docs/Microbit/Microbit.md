@@ -1729,15 +1729,18 @@ These seven basic tones and the interstitial relationships among them form the b
 
 #### Wiring
 
+In this kit, in addition to the 7 basic syllable keys, there is also a high syllable key, totaling eight keys, enabling the playing of more intricate melodies.
+
 | Button | Pin  |
 | :----: | :--: |
-|   C    |  P8  |
-|   D    | P12  |
-|   E    |  P2  |
-|   F    | P13  |
-|   G    | P14  |
-|   A    | P15  |
-|   B    | P16  |
+|   C    |  P1  |
+|   D    |  P8  |
+|   E    | P12  |
+|   F    |  P2  |
+|   G    | P13  |
+|   A    | P14  |
+|   B    | P15  |
+|   C    | P16  |
 
 ![img](img/jn1.png)
 
@@ -1757,7 +1760,7 @@ Connect the board to your computer via micro USB cable.
 
 ![img](img/k201.png)
 
-P8 pin is C tone.
+P1 pin is C tone.
 
 ![img](img/k204.png)
 
@@ -1768,6 +1771,8 @@ P8 pin is C tone.
 Burn code to micro:bit.
 
 ##### Test result:
+
+![img](img/k212.png)
 
 Open CoolTerm and connect to corresponding port. When the C button is pressed. 0 is displayed on the serial monitor; otherwise, it shows 1.
 

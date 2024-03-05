@@ -2,7 +2,7 @@
 
 ## 1. Development Board
 
-Link:
+Link:http://keyestudio-ks0579.readthedocs.io/
 
 ------------
 
@@ -1202,7 +1202,7 @@ Mobile:
 
 ### 4.1 Introduce to Piano
 
-In this project, you will embark on the journey of piano exploration. With seven buttons connected on the board and each one corresponding to one tone, we will learn how to build a basic piano that may open the door to a wonderful world of tone.
+In this project, you will embark on the journey of piano exploration. With eight buttons connected on the board and each one corresponding to one tone, we will learn how to build a basic piano that may open the door to a wonderful world of tone.
 
 ![img](img/67.png)
 
@@ -1255,15 +1255,18 @@ These seven basic tones and the interstitial relationships among them form the b
 
 #### 2. Wiring
 
+In this kit, in addition to the 7 basic syllable keys, there is also a high syllable key, totaling eight keys, enabling the playing of more intricate melodies.
+
 | Button | Pin  |
 | :----: | :--: |
-|   C    | io4  |
-|   D    | io15 |
-|   E    | io32 |
-|   F    | io18 |
-|   G    | io19 |
-|   A    | io23 |
-|   B    | io5  |
+|   C    | io14 |
+|   D    | io4  |
+|   E    | io15 |
+|   F    | io32 |
+|   G    | io18 |
+|   A    | io19 |
+|   B    | io23 |
+|   C    | io5  |
 
 ![img](img/jn1.png)
 
@@ -1331,7 +1334,7 @@ When the button C is pressed, the piano plays a Middle C Tone.
 
 #### 5. A 7-key Piano
 
-We now make all seven buttons to be able to play tones by pressing them.
+We now make all eight buttons to be able to play tones by pressing them.
 
 ##### Build Code
 
@@ -1341,7 +1344,7 @@ Duplicate the code block, as shown below. And then modify the tones and pins one
 
 ![img](img/82.png)
 
-Set pins to inout.
+Set pins to input.
 
 ![img](img/86.png)
 
@@ -1367,7 +1370,7 @@ Each button corresponds to the related Middle Tone, and when you press them, the
 
 ### 4.2 High, Middle, Low Tone
 
-To enrich the music, high, middle and low tone are inevitable. Yet only seven buttons integrated in the piano. Therefore, we may program to shift tones by the two programmable buttons and the touching area, which just correspond to high, middle and low. 
+To enrich the music, high, middle and low tone are inevitable. Yet only eight buttons integrated in the piano. Therefore, we may program to shift tones by the two programmable buttons and the touching area, which just correspond to high, middle and low. 
 
 #### Build code:
 
@@ -1544,7 +1547,7 @@ A: This kit is able to connect to external modules. When connecting, please chec
 
 - ESP32 development board: 
 
-	[https://wiki.keyestudio.com/KS5016_Keyestudio_ESP32_PLUS_Development_Board](https://www.keyestudio.com/)
+	<http://keyestudio-ks0579.readthedocs.io/>
 
 - Arduino Official:
 

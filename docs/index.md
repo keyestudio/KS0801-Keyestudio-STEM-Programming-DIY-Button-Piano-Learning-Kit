@@ -75,9 +75,9 @@ If you are interested in our products, please contact to our sales representativ
 |  4   |                      ![img](img/q4.png)                      |  Battery holder  |  1   |
 |  5   | ![img](img/q5.png) ![img](img/q5.png) ![img](img/q5.png) ![img](img/q5.png) | M4 copper pillar |  4   |
 |  6   | ![img](img/q7.png)![img](img/q7.png)![img](img/q7.png)![img](img/q7.png)![img](img/q7.png)![img](img/q7.png)![img](img/q7.png)![img](img/q7.png) |   M4*6mm screw   |  8   |
-|  7   | ![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png) |  M3*10mm screw   |  7   |
-|  8   | ![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png) |      M3 nut      |  7   |
-|  9   |                      ![img](img/q9.png)                      | 3PIN DuPont wire |  7   |
+|  7   | ![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png) |  M3*10mm screw   |  8   |
+|  8   | ![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png) |      M3 nut      |  8   |
+|  9   |                      ![img](img/q9.png)                      | 3PIN DuPont wire |  8   |
 |  10  |                     ![img](img/q10.png)                      |   Screwdriver    |  1   |
 
 ------
@@ -86,7 +86,7 @@ If you are interested in our products, please contact to our sales representativ
 
 ## Introduction
 
-With basswood as a structural material, this unique piano learning kit integrates seven button modules as well as micro:bit mainboard or ESP32 Easy Coding Board as its main control board. Besides, a built-in buzzer of the board enables it to play scales of do, re, mi, fa, so, la and si.
+With basswood as a structural material, this unique piano learning kit integrates eight button modules as well as micro:bit mainboard or ESP-32 Easy Coding Board as its main control board. Besides, a built-in buzzer of the board enables it to play scales of do, re, mi, fa, so, la,si and Do .
 
 To write codes featuring more creation and interestingness, we design this kit which is compatible with multiple programming software, such as makcode and KidsBlock3.0. With this kit, you can not only master the basics of piano skills, but also enjoys an excellent opportunity to learn programming, which largely stimulate your creativity and talent. Wish you a wonderful experience with enchanting music and a perfect combination of learning and entertainment!
 
@@ -186,15 +186,16 @@ To write codes featuring more creation and interestingness, we design this kit w
 
 **Buttons pins:**
 
-| Button |     Pin     |
-| :----: | :---------: |
-|   C    |  P8 \| io4  |
-|   D    | P12 \| io15 |
-|   E    | P2 \| io32  |
-|   F    | P13 \| io18 |
-|   G    | P14 \| io19 |
-|   A    | P15 \| io23 |
-|   B    | P16 \| io5  |
+| Button |    Pin     |
+| :----: | :--------: |
+|   C    | P1 \|io14  |
+|   D    |  P8 \|io4  |
+|   E    | P12 \|io15 |
+|   F    | P2 \|io32  |
+|   G    | P13 \|io18 |
+|   A    | P14 \|io19 |
+|   B    | P15 \|io23 |
+|   C    | P16 \|io5  |
 
 ------
 
@@ -340,6 +341,10 @@ To write codes featuring more creation and interestingness, we design this kit w
 
 ------
 
+![img](img/jn11.png)
+
+------
+
 ![img](img/jn7.png)
 
 ------
@@ -376,27 +381,11 @@ To write codes featuring more creation and interestingness, we design this kit w
 
 ### 6.
 
-![img](img/an36.png)
-
-------
+![img](img/an40.png)
 
 ### 7.
 
 ![img](img/an37.png)
-
-------
-
-### Prototype
-
-![img](img/an38.png)
-
-
-
-![img](img/an39.png)
-
-
-
-![img](img/an40.png)
 
 ------
 
