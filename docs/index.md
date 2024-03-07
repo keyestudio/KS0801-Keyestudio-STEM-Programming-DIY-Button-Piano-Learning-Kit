@@ -400,7 +400,7 @@ Lift the cover and insert the center plate.
 
 ### Battery
 
-**3 AA batteries are required. Please do not reverse them!**
+**4 AA batteries are required. Please do not reverse them!**
 
 **NOTE: red for +, black for -**
 
