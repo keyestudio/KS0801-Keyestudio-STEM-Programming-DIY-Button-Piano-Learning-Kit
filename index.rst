@@ -5,7 +5,7 @@
 
    README.md
    docs/index
-   docs/Microbit/index.md
+   docs/Microbit/Microbit.md
    docs/ESP32/ESP32.md
 
 
