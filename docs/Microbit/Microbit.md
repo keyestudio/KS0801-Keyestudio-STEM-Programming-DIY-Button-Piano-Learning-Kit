@@ -120,7 +120,7 @@ This chapter describes how to write program and load the program to the Micro: B
 
 Connect the board to computer via USB cable. 
 
-For how to program via mobile deveices: <https://microbit.org/get-started/user-guide/mobile/>
+For how to program via mobile devices: <https://microbit.org/get-started/user-guide/mobile/>
 
 Multiple operation systems are compatible with this board, including Macs, PCs, Chromebooks and Linux (Raspberry Pi). 
 
@@ -128,7 +128,7 @@ Multiple operation systems are compatible with this board, including Macs, PCs, 
 
 ------
 
-If the red LED on the back of the board is on, that means the board is powered. When your computer communicates with the main board via the USB cable, the yellow LED on it will flashes. For example, it will flash when you burn a “hex”file.
+If the red LED on the back of the board is on, that means the board is powered. When your computer communicates with the main board via the USB cable, the yellow LED on it will flashes. For example, it will flash when you burn a “hex” file.
 
 Then Micro: bit main board will appear on your computer as a driver named “MICROBIT(E:)”. Please note that it is not an ordinary USB disk as shown below.
 
@@ -248,7 +248,7 @@ Click “New Project” and enter “heartbeat” to edit the code. Here is the 
 
 ![img](img/m25.png)
 
-There are blocks“on start”and“forever”in the code editing area. 
+There are blocks “on start” and “forever” in the code editing area. 
 
 When the power is plugged or reset, “on start” means that the code in the block only executes once, while “forever” implies that the code runs cyclically.
 
@@ -527,8 +527,6 @@ Pull down to click “Python” to see Python code:
 
 After uploading test code to micro:bit main board and keeping the connection with the computer to power the main board, the LED dot matrix shows pattern ![img](img/k8-1.png) and ![img](img/k8-2.png), alternately.
 
-upload the code to the development board
-
 **If the downloading is not smooth, please remove the USB cable from the main board and then reconnect them and reopen Makecode to try again.**
 
 -----------------
@@ -576,8 +574,6 @@ In order to locate these LEDs quickly, as the figure shown below, we can regarde
 
 After uploading test code to micro:bit main board and powering the main board via the USB cable, the LED in (1,0) lights up for 1s and the one in (3,4) shines for 1s and this sequence will repeat.
 
-upload the code to the development board 
-
 ---------------
 
 
@@ -587,7 +583,7 @@ upload the code to the development board
 ![img](img/k1.png)
 
 #### 1. Introduction
-Dot matrices are very commonplace in daily life. They have found wide applications in LED advertisement screens, elevator floor display, bus stop announcement and so on.
+It is very commonplace to see dot matrices in daily life. They have found wide applications in LED advertisement screens, elevator floor display, bus stop announcement and so on.
 
 The LED dot matrix of Micro: Bit main board contains 25 LEDs in a grid. Previously, we have succeeded in controlling a certain LED to light by integrating its position value into the test code. Theoretically, we can turn on many LEDs at the same time to show patterns, digits and characters. 
 
@@ -616,8 +612,6 @@ Connect the board to your computer via micro USB cable.
 
 #### 5. Test Result
 After uploading test code to micro:bit main board and powering the main board via the USB cable, we find that the 5*5 dot matrix start to show numbers 1, 2, 3, 4 and 5, and then it alternatively shows![img](img/k16.png), “Hello!”, ![img](img/k17.png), ![img](img/k18.png), ![img](img/k19.png), ![img](img/k20.png) and ![img](img/k21.png).
-
-upload the code to the development board 
 
 ------------------
 
@@ -661,8 +655,6 @@ Connect the board to your computer via micro USB cable.
 
 After uploading test code and powering on, the 5*5 LED dot matrix shows A if button A is pressed and then released, B if button B pressed and released, and AB if button A and B pressed together and then released.
 
-upload the code to the development board 
-
 #### 6. Test Code 2
 
 **Find code blocks:**
@@ -693,8 +685,6 @@ upload the code to the development board
 
 #### 7. Test Result 2
 After uploading test code and powering on, when the button A is pressed, the LEDs in red increase; when the button B is pressed, the LEDs in red reduce.
-
-upload the code to the development board 
 
 ------------
 
@@ -742,8 +732,6 @@ Connect the board to your computer via micro USB cable.
 
 #### 5. Test Result 1
 After uploading test code 1 to micro:bit main board, powering the main board via the USB cable, and click “**Show console Device**”, the temperature value shows in the serial monitor as shown below.
-
-upload the code to the development board 
 
 ![img](img/k36.png)
 
@@ -800,8 +788,6 @@ The CoolTerm serial monitor shows the change of temperature in the current envir
 After uploading the code 2 to the board, when the ambient temperature is less than 35℃, the 5*5 LED dot matrix shows ![img](img/k46.png). 
 
 You may cover the sensor on the board to make the temperature equal to or become greater than 35℃, and then ![img](img/k47.png) will appear.
-
-upload the code to the development board 
 
 --------------
 
@@ -862,8 +848,6 @@ After uploading code and powering on, press the button A and the board need to b
 After completing calibration, a smile ![img](img/k54.png) will appear. 
 Press button A, and the detected magnetometer value will show. And the direction north, east, south and west correspond to 0°, 90°, 180° and 270° respectively.
 
-upload the code to the development board 
-
 #### 6. Test Code 2
 
 ![img](img/k55.png)
@@ -910,8 +894,6 @@ We add other statements to make a set of complete code.
 
 #### 7. Test Result 2
 After uploading code and calibrating, tilt micro:bit board and the LED dot matrix displays the direction signs. 
-
-upload the code to the development board 
 
 --------------
 
@@ -967,8 +949,6 @@ Connect the board to your computer via micro USB cable.
 #### 5. Test Result 1
 After uploading code and powering on, if we shake the Micro:Bit board(any direction), the LED dot matrix displays the digit “1”.
 
-upload the code to the development board 
-
 When the logo is kept above, number 2 displays.
 
 ![img](img/k70.png)
@@ -1020,8 +1000,6 @@ If you’d like to try this function, you can also set the acceleration to 3g, 6
 #### 7. Test Result 2
 Upload test code to micro:bit main board, power the main board via the USB cable, and click “Show console Device”.
 
-upload the code to the development board 
-
 ![img](img/k79.png)
 
 After referring to the MMA8653FC data manual and the hardware schematic diagram, the accelerometer coordinate of the Micro: Bit are shown in the figure below:
@@ -1034,7 +1012,7 @@ The following interface shows the decomposition value of acceleration in X axis,
 
 If you're running Windows 7 or 8 instead of Windows 10, via Google Chrome won't be able to match devices. You'll need to use the CoolTerm serial monitor to read value.
 
-Open CoolTerm and click **Options** to select **SerialPort**, and set COM port and baud rate to 115200. Click **OK** and **Connect**. The CoolTerm serial monitor shows the data of X axis, Y axis and Z axis , as shown in the figures below :
+Open CoolTerm and click **Options** to select **SerialPort**, and set COM port and baud rate to 115200. Click **OK** and **Connect**. The CoolTerm serial monitor shows the data of X axis, Y axis and Z axis , as shown in the figures below:
 
 ![img](img/k82.png)
 
@@ -1088,8 +1066,6 @@ Connect the board to your computer via micro USB cable.
 
 #### 5. Test Result
 Upload the test code to micro:bit main board, power the board via the USB cable and click “Show console Device”. 
-
-upload the code to the development board 
 
 ![img](img/k89.png)
 
@@ -1151,8 +1127,6 @@ Connect the board to your computer via micro USB cable.
 
 #### 5. Test Result 1
 After uploading code and powering on, the speaker utters sound and the LED dot matrix shows the logo of music.
-
-upload the code to the development board 
 
 #### 6. Test Code 2
 
@@ -1252,8 +1226,6 @@ Connect the board to your computer via micro USB cable.
 
 After uploading the code and powering on, the LED dot matrix exhibits the heart pattern ![](img/k47.png) when the logo is pressed or touched, and it displays digit when the logo is released. The longer it is pressed, the bigger the number is when it is released.
 
-upload the code to the development board 
-
 -----------
 
 
@@ -1295,8 +1267,6 @@ Connect the board to your computer via micro USB cable.
 #### 5. Test Result 1
 After uploading test code to micro:bit main board and powering the board via the USB cable, the LED dot matrix displays ![](img/k47.png) when you clap, and ![](img/k46.png) appears when it is quiet around.
 
-upload the code to the development board 
-
 #### 6. Test Code 2
 
 **Find code blocks:**
@@ -1333,8 +1303,6 @@ upload the code to the development board
 
 #### 7. Test Result 2
 Upload test code and power on and click “Show console Device” as shown below: 
-
-upload the code to the development board 
 
 ![img](img/k127.png)
 
@@ -1398,8 +1366,6 @@ Connect the board to your computer via micro USB cable.
 
 #### 5. Test Result
 After uploading test code to micro:bit main board and powering the board via the USB cable, the speaker plays *Birthday Song* when the logo is touched.
-
-upload the code to the development board 
 
 ------------
 
@@ -1467,9 +1433,7 @@ Dodge bullets! Don't get hit!
 ![img](img/k144.png)
 
 #### 6. Test Result 1
-The game begins when the code is uploaded to the main board. The bullets fall off and we need to control the role G by Button A and B to shun them. If the role fail to avert the attacks, game is over.
-
-upload the code to the development board 
+The game begins when the code is uploaded to the main board. The bullets fall off and we need to control the role G by Button A and B to shun them. If the role fails to avert the attacks, game is over.
 
 #### 7. Game 2
 Dodge bullets! Earn points!
@@ -1533,8 +1497,6 @@ The game begins when the code is uploaded to the main board. The bullets fall of
 
 Press buttons A and B at the same time, and the game starts again.
 
-upload the code to the development board 
-
 --------------
 
 
@@ -1565,7 +1527,7 @@ Connect the board to your computer via micro USB cable.
 
 #### 4. Procedures
 
-We will demonstrate on iPhone/iPad/MAC devices. Android/Windows devices may take these as a referance.
+We will demonstrate on iPhone/iPad/MAC devices. Android/Windows devices may take these as a reference.
 
 ##### (1) Firmware (iOS/MAC only)
 
@@ -1617,7 +1579,7 @@ Connect your Apple device with Micro: Bit main board.
 
 	![img](img/k172.png)
 
-- Still click “Next”and a dialog box props up as shown below. Then click "Pair". A few seconds later, the match is done and the LED dot matrix displays the "√" pattern.
+- Still click “Next” and a dialog box props up as shown below. Then click "Pair". A few seconds later, the match is done and the LED dot matrix displays the "√" pattern.
 
     ![img](img/k173.png)
 
@@ -2063,7 +2025,7 @@ Plug in Micro:bit board, the “MAINTENANCE” drive appears, which means the pr
 
 1. Download the **hex file** from this page to your computer.
 
-    Down load the latest micro:bit firmware-0255:https://www.microbit.org/get-started/user-guide/firmware/ 
+    Down load the latest micro:bit firmware-0255: https://www.microbit.org/get-started/user-guide/firmware/ 
     If you do not want to download from this website, we also provide it in our tutorial.
 
 2. After the latest firmware is downloaded, then drag it into the “MAINTENANCE” to make Micro:bit back to normal mode.
@@ -2104,7 +2066,7 @@ If you can’t:
 - Make sure that the USB cable is working. Does the cable works on another computer? If not, find a different cable to use. Some cables may only provide a power connection and don’t actually transfer data.
 - Try another USB port on your computer. 
 - Is the cable good but you still can’t see the **MICROBIT** drive? Hmm, you might have a problem with your micro:bit. 
-- Try the additional steps described in the [falut finding](https://support.microbit.org/support/solutions/articles/19000024000-fault-finding-with-a-micro-bit) at microbit.org.
+- Try the additional steps described in the [fault finding](https://support.microbit.org/support/solutions/articles/19000024000-fault-finding-with-a-micro-bit) at microbit.org.
 - If this doesn’t help, you can create a [support ticket](https://support.microbit.org/support/tickets/new) to notify the Micro:bit Foundation of the problem. If you do so, **skip the rest of these steps**.
 
 ------
@@ -2136,7 +2098,7 @@ If the version is **0249**, **0250** or higher, you have the right firmware, jus
 
 ![img](img/k197.png)
 
-2. Downlaod firmware .hex file: <https://microbit.org/guide/firmware/>
+2. Download firmware .hex file: <https://microbit.org/guide/firmware/>
 3. Drag the file onto the **MAINTENANCE** drive.
 4. The yellow LED will flash while the HEX file is copying. After that, the LED will go off and the micro:bit resets. The **MAINTENANCE** drive now changes to **MICROBIT**.
 5. The upgrade is complete! You can open the **DETAILS.TXT** file to check the firmware version that matches the one of the **HEX** file you copied.

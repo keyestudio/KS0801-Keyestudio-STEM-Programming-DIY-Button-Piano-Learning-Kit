@@ -70,7 +70,7 @@ If you are interested in our products, please contact to our sales representativ
 |  #   |                             PIC                              |       NAME       | QTY  |
 | :--: | :----------------------------------------------------------: | :--------------: | :--: |
 |  1   |                      ![img](img/q1.png)                      |     Basswood     |  1   |
-|  2   |                      ![img](img/q2.png)                      | Expansion baord  |  1   |
+|  2   |                      ![img](img/q2.png)                      | Expansion board  |  1   |
 |  3   |                      ![img](img/q3.png)                      |  Button module   |  8   |
 |  4   |                      ![img](img/q4.png)                      |  Battery holder  |  1   |
 |  5   | ![img](img/q5.png) ![img](img/q5.png) ![img](img/q5.png) ![img](img/q5.png) | M4 copper pillar |  4   |
@@ -88,7 +88,7 @@ If you are interested in our products, please contact to our sales representativ
 
 With basswood as a structural material, this unique piano learning kit integrates eight button modules as well as micro:bit mainboard or ESP-32 Easy Coding Board as its main control board. Besides, a built-in buzzer of the board enables it to play scales of do, re, mi, fa, so, la,si and Do .
 
-To write codes featuring more creation and interestingness, we design this kit which is compatible with multiple programming software, such as makcode and KidsBlock3.0. With this kit, you can not only master the basics of piano skills, but also enjoys an excellent opportunity to learn programming, which largely stimulate your creativity and talent. Wish you a wonderful experience with enchanting music and a perfect combination of learning and entertainment!
+To write codes featuring more creation and interestingness, we design this kit which is compatible with multiple programming software, such as makecode and KidsBlock3.0. With this kit, you can not only master the basics of piano skills, but also enjoy an excellent opportunity to learn programming, which largely stimulate your creativity and talent. Wish you a wonderful experience with enchanting music and a perfect combination of learning and entertainment!
 
 ------
 
@@ -100,7 +100,7 @@ To write codes featuring more creation and interestingness, we design this kit w
 2. **Easy assembly:** For convenience and efficiency, the assembly process is very easy.
 3. **Piano experience:** You may enjoy the fun of music with this piano.
 4. **Music in programming:** It integrates music learning with programming to provide you with a brand-new programming experience.
-5. **Multiple programming languages:** It can be enabled by Makcode or KidsBlock, which perfectly meet diversified programming needs and expand the possibility of learning.
+5. **Multiple programming languages:** It can be enabled by Makecode or KidsBlock, which perfectly meet diversified programming needs and expand the possibility of learning.
 
 ------
 
@@ -400,7 +400,7 @@ Lift the cover and insert the center plate.
 
 ### Battery
 
-**4 AA batteries are required. Please do not reverse them!**
+**4 AAA batteries are required. Please do not reverse them!**
 
 **NOTE: red for +, black for -**
 
