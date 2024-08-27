@@ -444,7 +444,7 @@ After place the batteries, connect the wires to the expansion board and put the 
 
 [Micro:bit](Microbit/Microbit.md)
 
-[ESP32](ESP32/ESP32.md)
+<!--[ESP32](ESP32/ESP32.md)-->
 
 ------
 
